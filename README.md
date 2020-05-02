@@ -53,7 +53,9 @@ loss functions - tried both categorical cross-entropy and huber loss. Both give 
 
 So RNN Model is used for prediction.
 
-The result are well comparable with other models for flair prediction. 
+The result are well comparable with other models(not using pre-trained embedding)for flair prediction.
+
+Note- Using pre-trained embedding can improve accuracy but due to limited resourced cannot use it in my model.
 
 
    
