@@ -4,7 +4,9 @@ I have finally used "TITLE" field only to predict the flair as, Body is not avai
 comments seems be misleading and diverting, which can reduce the accuracy of the model.
 
 This is multi-class classification problem -
+
 Total 13 classes
+
 flair are mapped to their correponding labels-
 {'AskIndia': 2,
  'Business/Finance': 7,
