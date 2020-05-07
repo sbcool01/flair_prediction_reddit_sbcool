@@ -53,7 +53,7 @@ loss functions - tried both categorical cross-entropy and huber loss. Both give 
 
 So RNN Model is used for prediction.
 
-This problem comes under the category where human level accuracy which is often considered as a threshold is also low.
+This problem comes under the category where human level accuracy is low which is often considered as a threshold.
 
 The result obtained here are well comparable with other models(not using pre-trained embedding)for flair prediction.
 
