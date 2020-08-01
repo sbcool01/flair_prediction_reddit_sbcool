@@ -1,7 +1,9 @@
 I am Swayam Bukharia, 2nd year undergrad IITG.
 
+This model is made for predicting flair of the posts on india subreddit.
+
 I have finally used "TITLE" field only to predict the flair as, Body is not available in most of the posts and most of the times 
-comments seems be misleading and diverting, which can reduce the accuracy of the model.
+comments seems to be misleading and diverting, which can reduce the accuracy of the model.
 
 This is multi-class classification problem -
 
